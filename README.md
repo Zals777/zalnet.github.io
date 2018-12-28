@@ -9,7 +9,7 @@
 2. Tambahkan script berikut di MikroTik via Terminal.
 ```
 /ip hotspot walled-garden ip
-add action=accept comment="Jak QR Code Scanner" disabled=no dst-host=zal.net
+add action=accept comment="Zals QR Code Scanner" disabled=no dst-host=zal.net
 ```
 ##################################################
 ##################################################
